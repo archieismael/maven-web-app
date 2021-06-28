@@ -7,13 +7,13 @@
 <head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Welcome to Bookzy Online Portal</title>
+<title>Welcome to Softmax Solution Portal</title>
 
 </head>
 </head>
 <body>
- <h1 align="center">Welcome to Bookzy Online Portal</h1>
-<h1 align="center">You are viewing this web app through CI/CD - June 2021</h1>
+ <h1 align="center">Welcome to Softmax Solution Portal</h1>
+<h1 align="center">Your go to solution for your image filters and photo enhancements. June 2021</h1>
 <h2 align="center">Thank you for your visit</h2>
 </body>
 </html>
